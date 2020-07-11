@@ -41,6 +41,10 @@ As soon as all the inputs are perfect, user gets registered to the app. In fireb
 * Rating Page: This consists of a rating stars bar. If any student is giving less rating then he/she needs to specify the reason for that. We will keep the student identity hidden in the comment section(In this way students can write their problems without hesitation). At the end of day , teachers would get a averaged rating of whole class. This averaged rating would be displayed on both teacher and student rating pages. Teachers have a seperate "Display Rating page" for this, for that Teacher Sign Up is important too. For teachers sign up again 7 credentials are taken.
 There is a log out button in the rating page itself. On tapped it navigates back to log in page. Once the user is 'logged in' he/she need not enter the credentials again till they themselves log out.
 
+## Future Scope:
+* For now our app is working for one batch only. We are planning to expand it to all 6 batches.
+* We still have to work on the backend part more.
+
 ## Screenshots
 
 
