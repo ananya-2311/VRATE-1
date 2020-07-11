@@ -45,6 +45,7 @@ There is a log out button in the rating page itself. On tapped it navigates back
 * For now our app is working for one batch only. We are planning to expand it to all 6 batches.
 * We still have to work on the backend part more.
 
+
 ## Screenshots
 
 
