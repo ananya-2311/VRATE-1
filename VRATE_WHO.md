@@ -64,3 +64,4 @@ There is a log out button in the rating page itself. On tapped it navigates back
 
 
 
+
