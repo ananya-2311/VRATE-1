@@ -16,6 +16,7 @@ VRATE is an app that enables students to rate every lecture, everyday. The main 
 Students have to complete the Sign Up process first, once that's done student can login through an unique email id and password.As soon as Login is done student is directed to a calendar cum time table page. As we have 6 batches for FY, so while logging in the system checks the batch of student from the database and accordingly respective time table is displayed. On tapped on a particular subject, a rating page displays. Here user can rate the particular lecture on a rating scale of 1 to 5 stars. If user rates less , giving the desired valid reason for it is *mandatory* . Also while commenting student identity is kept hidden.
 So in this way this app would be a very good platform for students to keep their problems as well as teacher's to improvise.
 
-* Github repo link : ![LInk to Github](https://github.com/ananya-2311/VRATE-1.git)
+* Github repo link : [Link to Github](https://github.com/ananya-2311/VRATE-1.git)
+* Drive Link : [Link to Drive]()
 
 
