@@ -1,5 +1,7 @@
 # VRATE
 
+## Team name: WHO(We help others)
+
 TEAM WHO(We Help Others)
 1. Sidhya Jain
 2. Ananya Pawar
