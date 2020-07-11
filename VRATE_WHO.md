@@ -19,4 +19,12 @@ So in this way this app would be a very good platform for students to keep their
 * Github repo link : [Link to Github](https://github.com/ananya-2311/VRATE-1.git)
 * Drive Link : [Link to Drive]()
 
+## Technology Stack
+1. Flutter
+2. Dart language
+3. Firebase
+
+## Project Setup
+We have made this project in Android Studio using flutter and have used firebase for storing the data of user. Flutter facilitates us with with a beautiful and creative UI . We used a course of udemy as well as Youtube to learn flutter.To run our projet directly copy our github 
+
 
