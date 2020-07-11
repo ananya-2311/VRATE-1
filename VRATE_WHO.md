@@ -31,6 +31,17 @@ We have made this project in Android Studio using flutter and have used firebase
 
 ## Usage: 
 
+WORKING:
+As soon as user opens the app, App logo is displayed followed by three introductory swipe screens. Then comes the Login Page. 
+* Login Page consist of two input credentials that is email Id and password. In case user forgets the password,there is a seperate option for forget password as well. If email or password is invalid, a error validator is displayed. SIGN IN button navigates to home page directly(HOME PAGE IS THE TIMETABLE PAGE). If you are  a new user,there is a SIGN UP button in the bottom of the page. On clicking SIGN UP, it asks whether we are a teacher or student. There are seperate SignUp pages for Teacher and Student.
+* Student SignUp Page: It consists of 7 input credentials i.e Name, Email ID, Dropdown's for Branch and Batch , Phone no, Password and Confirm Password.
+If any of the input is invalid(Eg: Email id format is not valid, Password is not greater than 8 characters or Password re-entered doesn't match with the above Password etc.), an error message is displayed.
+As soon as all the inputs are perfect, user gets registered to the app. In firebase console too, the new user is displayed. SIGNUP button navigates to the Home Page of app that is the TimeTable Page.
+* TimeTable Page: Time table consists of the calendar. User needs to tap the day just above the desired date. On tapped, screen displays the timetable of that day. Subjects in calendar are flat buttons. This subject flat button on clicked navigates to the respective rating page of that subject.
+* Rating Page: This consists of a rating stars bar. If any student is giving less rating then he/she needs to specify the reason for that. We will keep the student identity hidden in the comment section(In this way students can write their problems without hesitation). At the end of day , teachers would get a averaged rating of whole class. This averaged rating would be displayed on both teacher and student rating pages. Teachers have a seperate "Display Rating page" for this, for that Teacher Sign Up is important too. For teachers sign up again 7 credentials are taken.
+There is a log out button in the rating page itself. On tapped it navigates back to log in page. Once the user is 'logged in' he/she need not enter the credentials again till they themselves log out.
+
+## Screenshots
 
 
 
